@@ -110,7 +110,7 @@ permalink: /publications/
 
 - Nothing But Unworthy Servants? Kierkegaard and Tauler on Grace, Striving and Cooperation. *Studies in Christian Ethics* 35.4 (2022), special issue: *Grace and Works in Kierkegaard*, 729–747. <a href="https://journals.sagepub.com/doi/10.1177/09539468221085849" class="pub-link" target="_blank" rel="noopener">read more</a>
 
-- Kierkegaard on Imagination: Hope, Possibility, and the Imitation of Christ. *History of European Ideas* 47.3 (2021), 484–499. <a href="https://www.repository.cam.ac.uk/items/be0863ec-bad8-4420-bba4-5c857f4b7452" class="pub-link" target="_blank" rel="noopener">read more</a>
+- Kierkegaard on Imagination: Hope, Possibility, and the Imitation of Christ. *History of European Ideas* 47.3 (2021), 484–499. <a href="https://www.tandfonline.com/doi/full/10.1080/01916599.2020.1799558" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Bild und Entbildung: Gedanken zum 'Selfie' im Ausgang von Meister Eckhart, Johannes Tauler und Søren Kierkegaard. In *Was Bilder zu denken geben. Kulturphilosophische Essays zu Ehren von Ralf Konersmann*, ed. Nicolai Mähl. Hamburg: Meinert, 2021, 210–218.
 
