@@ -10,7 +10,7 @@ permalink: /publications/
     <p><em>Kierkegaard and the Life-View.</em> Cambridge: Cambridge University Press (forthcoming 2026).</p>
   </li>
   <li class="pub-entry">
-    <p><em>Die Wiederholung der Philosophie. Kierkegaards Kulturkritik und ihre Folgen.</em> Berlin and Boston: De Gruyter, 2015 (Kierkegaard Studies Monograph Series, Vol. 32), 298pp. <a href="https://www.degruyterbrill.com/document/doi/10.1515/9783110418316/html?lang=en#contents" class="pub-link" target="_blank" rel="noopener">publisher</a></p>
+    <p><em>Die Wiederholung der Philosophie. Kierkegaards Kulturkritik und ihre Folgen.</em> Berlin and Boston: De Gruyter, 2015 (Kierkegaard Studies Monograph Series, Vol. 32), 298pp. <a href="https://www.degruyterbrill.com/document/doi/10.1515/9783110418316/html?lang=en#contents" class="pub-link" target="_blank" rel="noopener">read more</a></p>
     <details class="toc-details">
       <summary>Contents</summary>
       <div class="toc-content">
@@ -31,7 +31,7 @@ permalink: /publications/
 
 <ul class="pub-list" markdown="0">
   <li class="pub-entry">
-    <p><em>Kierkegaard in France. A History of Reception and Influence</em> (together with Andrew Sackin-Poll, New Research in the History of Western Philosophy). Leiden/Boston: Brill, 2025. <a href="https://blackwells.co.uk/bookshop/product/Kierkegaard-in-France-by-Hjordis-Becker-Lindenthal-editor-Andrew-Sackin-Poll-editor/9789004727847" class="pub-link" target="_blank" rel="noopener">publisher</a></p>
+    <p><em>Kierkegaard in France. A History of Reception and Influence</em> (together with Andrew Sackin-Poll, New Research in the History of Western Philosophy). Leiden/Boston: Brill, 2025. <a href="https://blackwells.co.uk/bookshop/product/Kierkegaard-in-France-by-Hjordis-Becker-Lindenthal-editor-Andrew-Sackin-Poll-editor/9789004727847" class="pub-link" target="_blank" rel="noopener">read more</a></p>
     <details class="toc-details">
       <summary>Contents</summary>
       <div class="toc-content">
@@ -55,7 +55,7 @@ permalink: /publications/
     </details>
   </li>
   <li class="pub-entry">
-    <p><em>Kierkegaard and Mysticism. Reception, Influence, Resonance</em> (Contemporary Theological Explorations in Mysticism). London and New York: Routledge, 2025. <a href="https://doi.org/10.4324/9781003461869" class="pub-link" target="_blank" rel="noopener">publisher</a></p>
+    <p><em>Kierkegaard and Mysticism. Reception, Influence, Resonance</em> (Contemporary Theological Explorations in Mysticism). London and New York: Routledge, 2025. <a href="https://doi.org/10.4324/9781003461869" class="pub-link" target="_blank" rel="noopener">read more</a></p>
     <details class="toc-details">
       <summary>Contents</summary>
       <div class="toc-content">
@@ -92,39 +92,39 @@ permalink: /publications/
 
 - Die Krise oder eine Krise im Leben einer Schauspielerin. In *Kierkegaard-Handbuch. Leben – Werk – Wirkung*, ed. Hermann Deuser, Markus Kleinert and Magnus Schlette. Stuttgart: Metzler (forthcoming April 2027).
 
-- What Happened to the Meadow? An Ecological Reading of Kierkegaard's *Works of Love.* In *Cambridge Critical Guide to* "Works of Love", ed. Wojciech Kaftanski and Jeffrey Hanson. Cambridge University Press, 2025, 132–150.  <a href="https://www.cambridge.org/core/books/abs/kierkegaards-works-of-love/what-happened-to-the-meadow/EF561BE0C86175B14400B25CBC43A95Aclass="pub-link" target="_blank" rel="noopener">chapter</a>
+- What Happened to the Meadow? An Ecological Reading of Kierkegaard's *Works of Love.* In *Cambridge Critical Guide to* "Works of Love", ed. Wojciech Kaftanski and Jeffrey Hanson. Cambridge University Press, 2025, 132–150.  <a href="https://www.cambridge.org/core/books/abs/kierkegaards-works-of-love/what-happened-to-the-meadow/EF561BE0C86175B14400B25CBC43A95A" class="pub-link" target="_blank" rel="noopener">read more</a>
 
-- Kierkegaard and Mysticism? An Introduction. In *Kierkegaard and Mysticism. Reception, Influence, Resonance*, ed. Hjördis Becker-Lindenthal. London and New York: Routledge, 2025, 1–13. <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003461869-1/kierkegaard-mysticism-hj%C3%B6rdis-becker-lindenthal?context=ubx&refId=1d1f3c7c-7e5e-489b-aa22-805d8fd1ee25" class="pub-link" target="_blank" rel="noopener">chapter</a>
+- Kierkegaard and Mysticism? An Introduction. In *Kierkegaard and Mysticism. Reception, Influence, Resonance*, ed. Hjördis Becker-Lindenthal. London and New York: Routledge, 2025, 1–13. <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003461869-1/kierkegaard-mysticism-hj%C3%B6rdis-becker-lindenthal?context=ubx&refId=1d1f3c7c-7e5e-489b-aa22-805d8fd1ee25" class="pub-link" target="_blank" rel="noopener">read more</a>
 
-- Unio Mystica and the Infinite Difference Between God and Human Being: Kierkegaard and Tauler. In *Kierkegaard and Mysticism. Reception, Influence, Resonance*, ed. Hjördis Becker-Lindenthal. London and New York: Routledge, 2025, 44–56.<a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003461869-5/unio-mystica-infinite-difference-god-human-being-hj%C3%B6rdis-becker-lindenthal?context=ubx&refId=619dccc8-d725-44d2-a1c2-069b5942b4a2" class="pub-link" target="_blank" rel="noopener">chapter</a>
+- Unio Mystica and the Infinite Difference Between God and Human Being: Kierkegaard and Tauler. In *Kierkegaard and Mysticism. Reception, Influence, Resonance*, ed. Hjördis Becker-Lindenthal. London and New York: Routledge, 2025, 44–56.<a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003461869-5/unio-mystica-infinite-difference-god-human-being-hj%C3%B6rdis-becker-lindenthal?context=ubx&refId=619dccc8-d725-44d2-a1c2-069b5942b4a2" class="pub-link" target="_blank" rel="noopener">read more</a>
 
-- The Inversion of Human Exceptionalism: Kierkegaard's Lily & Bird Discourses Read Ecologically. In *Kierkegaard and the Poetry of the Gospel*, ed. Frances Maughan-Brown and Rick A. Furtak. London: Bloomsbury, 2025, 191–203. <a href="https://www.bloomsburycollections.com/monograph-detail?docid=b-9781350476561&pdfid=9781350476561.0025.pdf&tocid=b-9781350476561-chapter15" class="pub-link" target="_blank" rel="noopener">chapter</a>
+- The Inversion of Human Exceptionalism: Kierkegaard's Lily & Bird Discourses Read Ecologically. In *Kierkegaard and the Poetry of the Gospel*, ed. Frances Maughan-Brown and Rick A. Furtak. London: Bloomsbury, 2025, 191–203. <a href="https://www.bloomsburycollections.com/monograph-detail?docid=b-9781350476561&pdfid=9781350476561.0025.pdf&tocid=b-9781350476561-chapter15" class="pub-link" target="_blank" rel="noopener">read more</a>
 
-- Introduction (together with Andrew Sackin-Poll). In *Kierkegaard in France. A History of Reception and Influence.* Leiden/Boston: Brill, 2025, 1–17. <a href="https://brill.com/display/book/9789004732933/BP000011.xml" class="pub-link" target="_blank" rel="noopener">chapter</a>
+- Introduction (together with Andrew Sackin-Poll). In *Kierkegaard in France. A History of Reception and Influence.* Leiden/Boston: Brill, 2025, 1–17. <a href="https://brill.com/display/book/9789004732933/BP000011.xml" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Climate Despair from a Kierkegaardian Perspective: Asceticism, Possibility and Eschatological Hope. In *Living in Uncertainty. Kierkegaard and Possibility*, ed. Erin Plunkett. London: Bloomsbury, 2023, 184–203.<a href="https://www.bloomsbury.com/uk/kierkegaard-and-possibility-9781350298989/" class="pub-link" target="_blank" rel="noopener">read more</a>
 
-- Practicing for Death in the Anthropocene: Reading Christian Asceticism after the End of the Human (with Simone Kotva). *Environmental Humanities* 15.2 (July 2023), 105–123. <a href="https://read.dukeupress.edu/environmental-humanities/article/15/2/105/380193/" class="pub-link" target="_blank" rel="noopener">open access</a>
+- Practicing for Death in the Anthropocene: Reading Christian Asceticism after the End of the Human (with Simone Kotva). *Environmental Humanities* 15.2 (July 2023), 105–123. <a href="https://read.dukeupress.edu/environmental-humanities/article/15/2/105/380193/" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Fast vergessen: Die Nachwirkungen von Kierkegaards Kulturkritik im Krisendiskurs der dänischen Nachkriegszeit. *Kierkegaard Studies Yearbook* 2023, 305–327.<a href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2023-0014/html?srsltid=AfmBOory0GOSkdXOdfoTSGFpoAOb5RzL5C25O1JsjOe7G5IOWg2_Id-P" class="pub-link" target="_blank" rel="noopener">read more</a>
 
-- Nothing But Unworthy Servants? Kierkegaard and Tauler on Grace, Striving and Cooperation. *Studies in Christian Ethics* 35.4 (2022), special issue: *Grace and Works in Kierkegaard*, 729–747. <a href="https://journals.sagepub.com/doi/10.1177/09539468221085849" class="pub-link" target="_blank" rel="noopener">journal</a>
+- Nothing But Unworthy Servants? Kierkegaard and Tauler on Grace, Striving and Cooperation. *Studies in Christian Ethics* 35.4 (2022), special issue: *Grace and Works in Kierkegaard*, 729–747. <a href="https://journals.sagepub.com/doi/10.1177/09539468221085849" class="pub-link" target="_blank" rel="noopener">read more</a>
 
-- Kierkegaard on Imagination: Hope, Possibility, and the Imitation of Christ. *History of European Ideas* 47.3 (2021), 484–499. <a href="https://www.repository.cam.ac.uk/items/be0863ec-bad8-4420-bba4-5c857f4b7452" class="pub-link" target="_blank" rel="noopener">open access</a>
+- Kierkegaard on Imagination: Hope, Possibility, and the Imitation of Christ. *History of European Ideas* 47.3 (2021), 484–499. <a href="https://www.repository.cam.ac.uk/items/be0863ec-bad8-4420-bba4-5c857f4b7452" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Bild und Entbildung: Gedanken zum 'Selfie' im Ausgang von Meister Eckhart, Johannes Tauler und Søren Kierkegaard. In *Was Bilder zu denken geben. Kulturphilosophische Essays zu Ehren von Ralf Konersmann*, ed. Nicolai Mähl. Hamburg: Meinert, 2021, 210–218.
 
-- Hitchcock Meets Kierkegaard: Gendered Forms of Despair in *Vertigo* and *The Sickness Unto Death.* *Kierkegaard Studies Yearbook*, ed. Heiko Schulz, Jon Stewart, Karl Verstrynge. Boston/Berlin: De Gruyter, 2020, 285–300. <a href="https://www.repository.cam.ac.uk/items/17698baf-adff-4c3b-bf28-61992422b7f3" class="pub-link" target="_blank" rel="noopener">open access</a>
+- Hitchcock Meets Kierkegaard: Gendered Forms of Despair in *Vertigo* and *The Sickness Unto Death.* *Kierkegaard Studies Yearbook*, ed. Heiko Schulz, Jon Stewart, Karl Verstrynge. Boston/Berlin: De Gruyter, 2020, 285–300. <a href="https://www.repository.cam.ac.uk/items/17698baf-adff-4c3b-bf28-61992422b7f3" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Søren Kierkegaards kulturkritik i den danske efterkrigstids krisediskurs: filosofiske, teologiske og litterære motiver. In *Den stumme myte. Nedslag i efterkrigstidens kulturkritik*, ed. Anders Ehlers Dam. Aarhus: Aarhus University Press, 2020, 71–98.
 
-- Kierkegaard's Reception of German Vernacular Mysticism: Johann Tauler's Sermon on the Feast of the Exaltation of the Cross and Kierkegaard's *Practice in Christianity.* *International Journal of Philosophy and Theology* 80.4–5 (2019): *Kierkegaardian Echoes*, 443–464. <a href="https://www.repository.cam.ac.uk/handle/1810/289807" class="pub-link" target="_blank" rel="noopener">open access</a>
+- Kierkegaard's Reception of German Vernacular Mysticism: Johann Tauler's Sermon on the Feast of the Exaltation of the Cross and Kierkegaard's *Practice in Christianity.* *International Journal of Philosophy and Theology* 80.4–5 (2019): *Kierkegaardian Echoes*, 443–464. <a href="https://www.repository.cam.ac.uk/handle/1810/289807" class="pub-link" target="_blank" rel="noopener">read more</a>
 
-- Kierkegaard on Existential Kenosis and the Power of the Image: *Fear and Trembling* and *Practice in Christianity.* *Modern Theology* 35.4 (2019), 706–727 (together with Ruby S. Guyatt). <a href="https://www.repository.cam.ac.uk/items/1dfc71c1-890f-4185-b4ea-b34c19c15cdd" class="pub-link" target="_blank" rel="noopener">open access</a>
+- Kierkegaard on Existential Kenosis and the Power of the Image: *Fear and Trembling* and *Practice in Christianity.* *Modern Theology* 35.4 (2019), 706–727 (together with Ruby S. Guyatt). <a href="https://www.repository.cam.ac.uk/items/1dfc71c1-890f-4185-b4ea-b34c19c15cdd" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Ecodiegesis and Autobiography in Liptrot's *The Outrun.* In *Repräsentationsweisen des Anthropozän in Literatur und Medien*, ed. Gabriele Dürbeck and Jonas Nesselhauf. Berlin: Peter Lang, 2018, 187–198.
 
-- A Promise Kept, a Self Repeated? Reading *Gjentagelsen* with Ricœur. *Kierkegaard Studies Yearbook*, ed. Heiko Schulz, Jon Stewart, Karl Verstrynge. Boston/Berlin: De Gruyter, 2017, 379–393. <a href="https://www.repository.cam.ac.uk/items/d6f46527-b0f8-4b16-9b0f-e710ace72bd9" class="pub-link" target="_blank" rel="noopener">open access</a>
+- A Promise Kept, a Self Repeated? Reading *Gjentagelsen* with Ricœur. *Kierkegaard Studies Yearbook*, ed. Heiko Schulz, Jon Stewart, Karl Verstrynge. Boston/Berlin: De Gruyter, 2017, 379–393. <a href="https://www.repository.cam.ac.uk/items/d6f46527-b0f8-4b16-9b0f-e710ace72bd9" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Sokrates im Anthropozän. Gedanken zum Menschenmöglichen im Ausgang von Blumenberg und Valéry. In *Paul Valéry: Für eine Epistemologie der Potentialität*, ed. Pablo Valdivia Orozco and Andrea Allerkamp. Heidelberg: Universitätsverlag Winter, 2017, 155–173.
 
@@ -136,7 +136,7 @@ permalink: /publications/
 
 - Common Man. In *Kierkegaard's Concepts* (Kierkegaard Research: Sources, Reception, Resources, Vol. 15), ed. Steven Emmanuel, William McDonald and Jon Stewart. Aldershot/Burlington: Ashgate, 2014, 11–16.
 
-- Mirroring God. Reflections of Meister Eckhart's Thought in Kierkegaard's Authorship. *Kierkegaard Studies Yearbook*, ed. Heiko Schulz, Jon Stewart, Karl Verstrynge. Boston/Berlin: De Gruyter, 2012, 3–24. <a href="https://www.academia.edu/4869100/" class="pub-link" target="_blank" rel="noopener">open access</a>
+- Mirroring God. Reflections of Meister Eckhart's Thought in Kierkegaard's Authorship. *Kierkegaard Studies Yearbook*, ed. Heiko Schulz, Jon Stewart, Karl Verstrynge. Boston/Berlin: De Gruyter, 2012, 3–24. <a href="https://www.academia.edu/4869100/" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Kulturkritik. In *Handbuch Kulturphilosophie*, ed. Ralf Konersmann. Stuttgart: Metzler, 2013, 46–53.
 
