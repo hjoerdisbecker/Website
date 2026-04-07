@@ -124,7 +124,7 @@ permalink: /publications/
 
 - Ecodiegesis and Autobiography in Liptrot's *The Outrun.* In *Repräsentationsweisen des Anthropozän in Literatur und Medien*, ed. Gabriele Dürbeck and Jonas Nesselhauf. Berlin: Peter Lang, 2018, 187–198.
 
-- A Promise Kept, a Self Repeated? Reading *Gjentagelsen* with Ricœur. *Kierkegaard Studies Yearbook*, ed. Heiko Schulz, Jon Stewart, Karl Verstrynge. Boston/Berlin: De Gruyter, 2017, 379–393. <a href="https://www.repository.cam.ac.uk/items/d6f46527-b0f8-4b16-9b0f-e710ace72bd9" class="pub-link" target="_blank" rel="noopener">read more</a>
+- A Promise Kept, a Self Repeated? Reading *Gjentagelsen* with Ricœur. *Kierkegaard Studies Yearbook*, ed. Heiko Schulz, Jon Stewart, Karl Verstrynge. Boston/Berlin: De Gruyter, 2017, 379–393. <a href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2017-0016/html?srsltid=AfmBOooQ2HkEWvCvokG2jatQMsumu8-0OQz9WhL5kcVnsWqysTFZI_Qj" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Sokrates im Anthropozän. Gedanken zum Menschenmöglichen im Ausgang von Blumenberg und Valéry. In *Paul Valéry: Für eine Epistemologie der Potentialität*, ed. Pablo Valdivia Orozco and Andrea Allerkamp. Heidelberg: Universitätsverlag Winter, 2017, 155–173.
 
