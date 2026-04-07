@@ -16,7 +16,7 @@ permalink: /publications/
 <ul class="pub-list" markdown="0">
   <li class="pub-entry">
     <p><em>Kierkegaard in France. A History of Reception and Influence</em> (together with Andrew Sackin-Poll, New Research in the History of Western Philosophy). Leiden/Boston: Brill, 2025.</p>
-    <p><em>Kierkegaard in France</em> traces the dynamic evolution of Kierkegaard’s reception from the early 20th century to contemporary debates on faith, ethics, and individuality. From existentialism and phenomenology to poststructuralism and feminism, Kierkegaard continues to be an essential interlocutor in shaping the ‘continental’ tradition of thought in France. 
+    The anthology traces the dynamic evolution of Kierkegaard’s reception from the early 20th century to contemporary debates on faith, ethics, and individuality. From existentialism and phenomenology to poststructuralism and feminism, Kierkegaard continues to be an essential interlocutor in shaping the ‘continental’ tradition of thought in France. 
     <details class="toc-details">
       <summary>Contents</summary>
       <div class="toc-content">
