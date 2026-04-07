@@ -113,7 +113,7 @@ permalink: /publications/
 
 - Sokrates im Anthropozän. Gedanken zum Menschenmöglichen im Ausgang von Blumenberg und Valéry. In *Paul Valéry: Für eine Epistemologie der Potentialität*, ed. Pablo Valdivia Orozco and Andrea Allerkamp. Heidelberg: Universitätsverlag Winter, 2017, 155–173.
 
-- Students' Impression Management in Massive Open Online Courses (MOOCs): An Opportunity for Existential Learning? *Journal for Online Learning and Teaching* 11.2 (2015), 320–330.
+- Students' Impression Management in Massive Open Online Courses (MOOCs): An Opportunity for Existential Learning? *Journal for Online Learning and Teaching* 11.2 (2015), 320–330. <a href="https://jolt.merlot.org/Vol11no2/Becker_0615.pdf" class="pub-link" target="_blank" rel="noopener">open access</a>
 
 - What the Soufflé Girl Could Teach Descartes: On Self-Illusion, Self-Creation, and an Insanely Free Will. In *More Doctor Who and Philosophy*, ed. Courtland Lewis and Paula Smithka. Chicago: Open Court, 2015, 119–127.
 

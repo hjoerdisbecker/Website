@@ -11,7 +11,7 @@ permalink: /engagement/
 
 **2019** Speaker and panellist, *The End of the World as We Know it?* Cambridge Festival of Ideas. October 2019.
 
-**2019** *Writing the Anthropocene: In Conversation with Megan Hunter*. Cambridge Science Festival, in collaboration with Simone Kotva and the Jesus College Intellectual Forum. March 2019.
+**2019** *Writing the Anthropocene: In Conversation with Megan Hunter*. Cambridge Science Festival, in collaboration with Simone Kotva and the Jesus College Intellectual Forum. March 2019. <a href="https://www.jesus.cam.ac.uk/articles/novelist-returns-jesus-college-cambridge-science-festival-event" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 ---
 
@@ -27,7 +27,7 @@ permalink: /engagement/
 
 **2022** *Kierkegaard and Mysticism*. Two-day international conference, Faculty of Divinity, University of Cambridge. Funded by the Leverhulme Trust. June 2022.
 
-**2021** *Kierkegaard in France* (co-organised with Andrew Sackin-Poll). Seminar series in cooperation with CRASSH, May–June 2021.
+**2021** *Kierkegaard in France* (co-organised with Andrew Sackin-Poll). Seminar series in cooperation with CRASSH, May–June 2021. <a href="https://www.crassh.cam.ac.uk/events/29230/" class="pub-link" target="_blank" rel="noopener">read more</a>
 
-**2021** *Magic and Ecology* (co-organised with Simone Kotva and Sophie Lunn-Rockliffe). Seminar series in cooperation with CRASSH, January–April 2021.
+**2021** *Magic and Ecology* (co-organised with Simone Kotva and Sophie Lunn-Rockliffe). Seminar series in cooperation with CRASSH, January–April 2021. <a href="https://www.crassh.cam.ac.uk/events/29231/" class="pub-link" target="_blank" rel="noopener">read more</a>
 
