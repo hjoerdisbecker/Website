@@ -136,7 +136,7 @@ permalink: /publications/
 
 - Common Man. In *Kierkegaard's Concepts* (Kierkegaard Research: Sources, Reception, Resources, Vol. 15), ed. Steven Emmanuel, William McDonald and Jon Stewart. Aldershot/Burlington: Ashgate, 2014, 11–16.
 
-- Mirroring God. Reflections of Meister Eckhart's Thought in Kierkegaard's Authorship. *Kierkegaard Studies Yearbook*, ed. Heiko Schulz, Jon Stewart, Karl Verstrynge. Boston/Berlin: De Gruyter, 2012, 3–24. <a href="https://www.academia.edu/4869100/" class="pub-link" target="_blank" rel="noopener">read more</a>
+- Mirroring God. Reflections of Meister Eckhart's Thought in Kierkegaard's Authorship. *Kierkegaard Studies Yearbook*, ed. Heiko Schulz, Jon Stewart, Karl Verstrynge. Boston/Berlin: De Gruyter, 2012, 3–24. <a href="https://www.degruyterbrill.com/document/doi/10.1515/kier.2012.3/html?srsltid=AfmBOopBfYw5P1f0o2oPhXjYii6b7d5N1O_q_05IM3WsCWqAe-pIqJon" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Kulturkritik. In *Handbuch Kulturphilosophie*, ed. Ralf Konersmann. Stuttgart: Metzler, 2013, 46–53.
 
