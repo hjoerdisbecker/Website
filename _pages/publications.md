@@ -92,21 +92,21 @@ permalink: /publications/
 
 - Die Krise oder eine Krise im Leben einer Schauspielerin. In *Kierkegaard-Handbuch. Leben – Werk – Wirkung*, ed. Hermann Deuser, Markus Kleinert and Magnus Schlette. Stuttgart: Metzler (forthcoming April 2027).
 
-- What Happened to the Meadow? An Ecological Reading of Kierkegaard's *Works of Love.* In *Cambridge Critical Guide to* "Works of Love", ed. Wojciech Kaftanski and Jeffrey Hanson. Cambridge University Press, 2025, 132–150.
+- What Happened to the Meadow? An Ecological Reading of Kierkegaard's *Works of Love.* In *Cambridge Critical Guide to* "Works of Love", ed. Wojciech Kaftanski and Jeffrey Hanson. Cambridge University Press, 2025, 132–150.  <a href="https://www.cambridge.org/core/books/abs/kierkegaards-works-of-love/what-happened-to-the-meadow/EF561BE0C86175B14400B25CBC43A95Aclass="pub-link" target="_blank" rel="noopener">chapter</a>
 
-- Kierkegaard and Mysticism? An Introduction. In *Kierkegaard and Mysticism. Reception, Influence, Resonance*, ed. Hjördis Becker-Lindenthal. London and New York: Routledge, 2025, 1–13.
+- Kierkegaard and Mysticism? An Introduction. In *Kierkegaard and Mysticism. Reception, Influence, Resonance*, ed. Hjördis Becker-Lindenthal. London and New York: Routledge, 2025, 1–13. <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003461869-1/kierkegaard-mysticism-hj%C3%B6rdis-becker-lindenthal?context=ubx&refId=1d1f3c7c-7e5e-489b-aa22-805d8fd1ee25" class="pub-link" target="_blank" rel="noopener">chapter</a>
 
-- Unio Mystica and the Infinite Difference Between God and Human Being: Kierkegaard and Tauler. In *Kierkegaard and Mysticism. Reception, Influence, Resonance*, ed. Hjördis Becker-Lindenthal. London and New York: Routledge, 2025, 44–56.
+- Unio Mystica and the Infinite Difference Between God and Human Being: Kierkegaard and Tauler. In *Kierkegaard and Mysticism. Reception, Influence, Resonance*, ed. Hjördis Becker-Lindenthal. London and New York: Routledge, 2025, 44–56.<a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003461869-5/unio-mystica-infinite-difference-god-human-being-hj%C3%B6rdis-becker-lindenthal?context=ubx&refId=619dccc8-d725-44d2-a1c2-069b5942b4a2" class="pub-link" target="_blank" rel="noopener">chapter</a>
 
-- The Inversion of Human Exceptionalism: Kierkegaard's Lily & Bird Discourses Read Ecologically. In *Kierkegaard and the Poetry of the Gospel*, ed. Frances Maughan-Brown and Rick A. Furtak. London: Bloomsbury, 2025, 191–203.
+- The Inversion of Human Exceptionalism: Kierkegaard's Lily & Bird Discourses Read Ecologically. In *Kierkegaard and the Poetry of the Gospel*, ed. Frances Maughan-Brown and Rick A. Furtak. London: Bloomsbury, 2025, 191–203. <a href="https://www.bloomsburycollections.com/monograph-detail?docid=b-9781350476561&pdfid=9781350476561.0025.pdf&tocid=b-9781350476561-chapter15" class="pub-link" target="_blank" rel="noopener">chapter</a>
 
-- Introduction (together with Andrew Sackin-Poll). In *Kierkegaard in France. A History of Reception and Influence.* Leiden/Boston: Brill, 2025, 1–17.
+- Introduction (together with Andrew Sackin-Poll). In *Kierkegaard in France. A History of Reception and Influence.* Leiden/Boston: Brill, 2025, 1–17. <a href="https://brill.com/display/book/9789004732933/BP000011.xml" class="pub-link" target="_blank" rel="noopener">chapter</a>
 
-- Climate Despair from a Kierkegaardian Perspective: Asceticism, Possibility and Eschatological Hope. In *Living in Uncertainty. Kierkegaard and Possibility*, ed. Erin Plunkett. London: Bloomsbury, 2023, 184–203.
+- Climate Despair from a Kierkegaardian Perspective: Asceticism, Possibility and Eschatological Hope. In *Living in Uncertainty. Kierkegaard and Possibility*, ed. Erin Plunkett. London: Bloomsbury, 2023, 184–203.<a href="https://www.bloomsbury.com/uk/kierkegaard-and-possibility-9781350298989/" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Practicing for Death in the Anthropocene: Reading Christian Asceticism after the End of the Human (with Simone Kotva). *Environmental Humanities* 15.2 (July 2023), 105–123. <a href="https://read.dukeupress.edu/environmental-humanities/article/15/2/105/380193/" class="pub-link" target="_blank" rel="noopener">open access</a>
 
-- Fast vergessen: Die Nachwirkungen von Kierkegaards Kulturkritik im Krisendiskurs der dänischen Nachkriegszeit. *Kierkegaard Studies Yearbook* 2023, 305–327.
+- Fast vergessen: Die Nachwirkungen von Kierkegaards Kulturkritik im Krisendiskurs der dänischen Nachkriegszeit. *Kierkegaard Studies Yearbook* 2023, 305–327.<a href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2023-0014/html?srsltid=AfmBOory0GOSkdXOdfoTSGFpoAOb5RzL5C25O1JsjOe7G5IOWg2_Id-P" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Nothing But Unworthy Servants? Kierkegaard and Tauler on Grace, Striving and Cooperation. *Studies in Christian Ethics* 35.4 (2022), special issue: *Grace and Works in Kierkegaard*, 729–747. <a href="https://journals.sagepub.com/doi/10.1177/09539468221085849" class="pub-link" target="_blank" rel="noopener">journal</a>
 
