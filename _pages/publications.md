@@ -5,10 +5,25 @@ permalink: /publications/
 
 ### Monographs
 
-- *Kierkegaard and the Life-View.* Cambridge: Cambridge University Press (forthcoming 2026).
-
-- *Die Wiederholung der Philosophie. Kierkegaards Kulturkritik und ihre Folgen.* Berlin and Boston: De Gruyter, 2015 (Kierkegaard Studies Monograph Series, Vol. 32), 298pp.
-Kierkegaard understood his thinking as philosophy confronting its own end. In campaigning against the existential amnesia of the 19th century, he revived the intellectual figure of a kind of philosophizing with roots in both the Socratic method and the apophatic reflections of Meister Eckhart. The Young Hegelians’ philosophy of action thereby became action of the text
+<ul class="pub-list" markdown="0">
+  <li class="pub-entry">
+    <p><em>Kierkegaard and the Life-View.</em> Cambridge: Cambridge University Press (forthcoming 2026).</p>
+  </li>
+  <li class="pub-entry">
+    <p><em>Die Wiederholung der Philosophie. Kierkegaards Kulturkritik und ihre Folgen.</em> Berlin and Boston: De Gruyter, 2015 (Kierkegaard Studies Monograph Series, Vol. 32), 298pp. <a href="https://www.degruyterbrill.com/document/doi/10.1515/9783110418316/html?lang=en#contents" class="pub-link" target="_blank" rel="noopener">publisher</a></p>
+    <details class="toc-details">
+      <summary>Contents</summary>
+      <div class="toc-content">
+        <p>Einleitung (p. 1)</p>
+        <p>1. Philosophie nach der Philosophie (p. 19)</p>
+        <p>2. Kierkegaards Kulturkritik (p. 35)</p>
+        <p>3. Philosophiekritik (p. 118)</p>
+        <p>4. Kierkegaards Wiederholung der Philosophie (p. 152)</p>
+        <p>5. Am Ende: auch eine Philosophie der Tat (p. 253)</p>
+      </div>
+    </details>
+  </li>
+</ul>
 
 ---
 
@@ -16,7 +31,7 @@ Kierkegaard understood his thinking as philosophy confronting its own end. In ca
 
 <ul class="pub-list" markdown="0">
   <li class="pub-entry">
-    <p><em>Kierkegaard in France. A History of Reception and Influence</em> (together with Andrew Sackin-Poll, New Research in the History of Western Philosophy). Leiden/Boston: Brill, 2025.</p>
+    <p><em>Kierkegaard in France. A History of Reception and Influence</em> (together with Andrew Sackin-Poll, New Research in the History of Western Philosophy). Leiden/Boston: Brill, 2025. <a href="https://blackwells.co.uk/bookshop/product/Kierkegaard-in-France-by-Hjordis-Becker-Lindenthal-editor-Andrew-Sackin-Poll-editor/9789004727847" class="pub-link" target="_blank" rel="noopener">publisher</a></p>
     <details class="toc-details">
       <summary>Contents</summary>
       <div class="toc-content">
@@ -34,13 +49,13 @@ Kierkegaard understood his thinking as philosophy confronting its own end. In ca
         <p>11. Ricœur's Reception of Kierkegaard — Iben Damgaard (pp. 245–269)</p>
         <p>12. Levinas on Kierkegaard… Again — J. Aaron Simmons &amp; Seth Daves (pp. 270–296)</p>
         <p>13. More than Quotable: Kierkegaard's Iconic Presence in Jean-Luc Marion's Phenomenology — Amber Bowen (pp. 297–318)</p>
-        <p>14. Agacinksi on Kierkegaard: a Maternal Abraham — Frances Maughan-Brown (pp. 319–342)</p>
+        <p>14. Agacinski on Kierkegaard: a Maternal Abraham — Frances Maughan-Brown (pp. 319–342)</p>
         <p>15. Variations on the Possible and the Impossible: a Contemporary Reading of Kierkegaard — Emmanuel Falque (pp. 343–364)</p>
       </div>
     </details>
   </li>
   <li class="pub-entry">
-    <p><em>Kierkegaard and Mysticism. Reception, Influence, Resonance</em> (Contemporary Theological Explorations in Mysticism). London and New York: Routledge, 2025.</p>
+    <p><em>Kierkegaard and Mysticism. Reception, Influence, Resonance</em> (Contemporary Theological Explorations in Mysticism). London and New York: Routledge, 2025. <a href="https://doi.org/10.4324/9781003461869" class="pub-link" target="_blank" rel="noopener">publisher</a></p>
     <details class="toc-details">
       <summary>Contents</summary>
       <div class="toc-content">
