@@ -7,7 +7,7 @@ permalink: /publications/
 
 - *Kierkegaard and the Life-View.* Cambridge: Cambridge University Press (forthcoming 2026).
 
-- *Die Wiederholung der Philosophie. Kierkegaards Kulturkritik und ihre Folgen.* Berlin and Boston: De Gruyter, 2015 (Kierkegaard Studies Monograph Series, Vol. 32).
+- *Die Wiederholung der Philosophie. Kierkegaards Kulturkritik und ihre Folgen* (Kierkegaard Studies Monograph Series, Vol. 32). Berlin and Boston: De Gruyter, 2015.
 
 ---
 
