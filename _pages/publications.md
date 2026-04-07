@@ -118,7 +118,7 @@ permalink: /publications/
 
 - Søren Kierkegaards kulturkritik i den danske efterkrigstids krisediskurs: filosofiske, teologiske og litterære motiver. In *Den stumme myte. Nedslag i efterkrigstidens kulturkritik*, ed. Anders Ehlers Dam. Aarhus: Aarhus University Press, 2020, 71–98.
 
-- Kierkegaard's Reception of German Vernacular Mysticism: Johann Tauler's Sermon on the Feast of the Exaltation of the Cross and Kierkegaard's *Practice in Christianity.* *International Journal of Philosophy and Theology* 80.4–5 (2019): *Kierkegaardian Echoes*, 443–464. <a href="https://www.repository.cam.ac.uk/handle/1810/289807" class="pub-link" target="_blank" rel="noopener">read more</a>
+- Kierkegaard's Reception of German Vernacular Mysticism: Johann Tauler's Sermon on the Feast of the Exaltation of the Cross and Kierkegaard's *Practice in Christianity.* *International Journal of Philosophy and Theology* 80.4–5 (2019): *Kierkegaardian Echoes*, 443–464. <a href="https://www.tandfonline.com/doi/full/10.1080/21692327.2019.1586569" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Kierkegaard on Existential Kenosis and the Power of the Image: *Fear and Trembling* and *Practice in Christianity.* *Modern Theology* 35.4 (2019), 706–727 (together with Ruby S. Guyatt). <a href="https://www.repository.cam.ac.uk/items/1dfc71c1-890f-4185-b4ea-b34c19c15cdd" class="pub-link" target="_blank" rel="noopener">read more</a>
 
