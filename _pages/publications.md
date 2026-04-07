@@ -31,7 +31,7 @@ permalink: /publications/
 
 <ul class="pub-list" markdown="0">
   <li class="pub-entry">
-    <p><em>Kierkegaard in France. A History of Reception and Influence</em> (together with Andrew Sackin-Poll, New Research in the History of Western Philosophy). Leiden/Boston: Brill, 2025. <a href="https://blackwells.co.uk/bookshop/product/Kierkegaard-in-France-by-Hjordis-Becker-Lindenthal-editor-Andrew-Sackin-Poll-editor/9789004727847" class="pub-link" target="_blank" rel="noopener">read more</a></p>
+    <p><em>Kierkegaard in France. A History of Reception and Influence</em> (together with Andrew Sackin-Poll, New Research in the History of Western Philosophy). Leiden/Boston: Brill, 2025. <a href="https://brill.com/display/title/70974?srsltid=AfmBOorxIM4By_01-fSiufqC4dtpaJX8AGeFXvZuSpQGNdHWB4pNWxMO" class="pub-link" target="_blank" rel="noopener">read more</a></p>
     <details class="toc-details">
       <summary>Contents</summary>
       <div class="toc-content">
