@@ -22,7 +22,7 @@ permalink: /cv/
       She has held visiting fellowships at Harvard University and the Kierkegaard Research
       Centre, University of Copenhagen, and has presented her work at international
       conferences across Europe and North America. Her research engages questions of 
-      selfhood, ecology, grace, bildung, and (trans)formation), and has extended into public-facing
+      selfhood, ecology, grace, and (trans)formation, and has extended into public-facing
       work including BBC Radio, the Cambridge Festival of Ideas, and curatorial projects.
     </p>
   </div>
