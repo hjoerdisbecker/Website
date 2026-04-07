@@ -13,7 +13,7 @@ permalink: /cv/
       Søren Kierkegaard, mysticism, and Earth ethics.
     <p>
       She held a Leverhulme Early Career Fellowship at Cambridge (2018–2022), during which
-      she developed her research project <em>Kierkegaard's Reception of Johannes Tauler</em>,
+      she developed her research project <em>Kierkegaard's Reception of Johannes Tauler</em>.
       Her doctoral dissertation  —  awarded <em>opus eximium</em> and
       the prize for the best doctoral dissertation in the Humanities at CAU Kiel, Germany (2015)  — 
       examined Kierkegaard's concept of repetition in the context of a post-Hegelian philosophy.
@@ -22,7 +22,7 @@ permalink: /cv/
       She has held visiting fellowships at Harvard University and the Kierkegaard Research
       Centre, University of Copenhagen, and has presented her work at international
       conferences across Europe and North America. Her research engages questions of 
-      selfhood, ecology, grace, bildung ,and (trans)formation), and has extended into public-facing
+      selfhood, ecology, grace, bildung, and (trans)formation), and has extended into public-facing
       work including BBC Radio, the Cambridge Festival of Ideas, and curatorial projects.
     </p>
   </div>
