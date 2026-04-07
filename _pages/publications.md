@@ -8,6 +8,7 @@ permalink: /publications/
 - *Kierkegaard and the Life-View.* Cambridge: Cambridge University Press (forthcoming 2026).
 
 - *Die Wiederholung der Philosophie. Kierkegaards Kulturkritik und ihre Folgen.* Berlin and Boston: De Gruyter, 2015 (Kierkegaard Studies Monograph Series, Vol. 32), 298pp.
+Kierkegaard understood his thinking as philosophy confronting its own end. In campaigning against the existential amnesia of the 19th century, he revived the intellectual figure of a kind of philosophizing with roots in both the Socratic method and the apophatic reflections of Meister Eckhart. The Young Hegelians’ philosophy of action thereby became action of the text
 
 ---
 
