@@ -34,5 +34,4 @@ permalink: /engagement/
 **2021** *Magic and Ecology* (co-organised with Simone Kotva and Sophie Lunn-Rockliffe). Seminar series , January–April 2021.
 
 
-
 **2020–2021** Host, Jesus College Film Club (with Anja Diehl). September 2020–May 2021.
