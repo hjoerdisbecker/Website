@@ -114,7 +114,7 @@ permalink: /publications/
 
 - Bild und Entbildung: Gedanken zum 'Selfie' im Ausgang von Meister Eckhart, Johannes Tauler und Søren Kierkegaard. In *Was Bilder zu denken geben. Kulturphilosophische Essays zu Ehren von Ralf Konersmann*, ed. Nicolai Mähl. Hamburg: Meinert, 2021, 210–218.
 
-- Hitchcock Meets Kierkegaard: Gendered Forms of Despair in *Vertigo* and *The Sickness Unto Death.* *Kierkegaard Studies Yearbook*, ed. Heiko Schulz, Jon Stewart, Karl Verstrynge. Boston/Berlin: De Gruyter, 2020, 285–300. <a href="https://www.repository.cam.ac.uk/items/17698baf-adff-4c3b-bf28-61992422b7f3" class="pub-link" target="_blank" rel="noopener">read more</a>
+- Hitchcock Meets Kierkegaard: Gendered Forms of Despair in *Vertigo* and *The Sickness Unto Death.* *Kierkegaard Studies Yearbook*, ed. Heiko Schulz, Jon Stewart, Karl Verstrynge. Boston/Berlin: De Gruyter, 2020, 285–300. <a href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2020-0013/html?lang=en&srsltid=AfmBOoq8FmvoQttnDK9DJA8FV67WSTvHtlGtkQxeKhHXYJdL9zW44Y8T" class="pub-link" target="_blank" rel="noopener">read more</a>
 
 - Søren Kierkegaards kulturkritik i den danske efterkrigstids krisediskurs: filosofiske, teologiske og litterære motiver. In *Den stumme myte. Nedslag i efterkrigstidens kulturkritik*, ed. Anders Ehlers Dam. Aarhus: Aarhus University Press, 2020, 71–98.
 
