@@ -1,0 +1,70 @@
+---
+layout: default
+permalink: /
+---
+
+<div class="home-page">
+
+  <!-- Featured Book -->
+  <section class="home-section home-section--book" id="book">
+    <div class="home-section__inner">
+      <div class="featured-book">
+        <img src="/assets/book.jpg" alt="Kierkegaard and Mysticism book cover" class="featured-book__cover">
+        <div class="featured-book__text">
+          <p class="featured-book__label">New Book</p>
+          <h2 class="featured-book__title">Kierkegaard and Mysticism</h2>
+          <p class="featured-book__subtitle">Reception, Influence, Resonance</p>
+          <p class="featured-book__blurb">This volume examines the relationship between Kierkegaard's thought and the Christian mystical tradition, tracing resonances, influences, and receptions across theology, philosophy, and spirituality. Edited by Hjördis Becker-Lindenthal. Routledge, 2025.</p>
+          <a href="https://www.taylorfrancis.com/books/edit/10.4324/9781003461869/kierkegaard-mysticism-hj%C3%B6rdis-becker-lindenthal" class="featured-book__link" target="_blank" rel="noopener">Publisher's page &rarr;</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CV -->
+  <section class="home-section home-section--alt" id="cv">
+    <div class="home-section__inner">
+      <h2 class="home-section__title"><a href="/cv/">CV</a></h2>
+      {% assign cv = site.pages | where: "permalink", "/cv/" | first %}
+      {{ cv.content | markdownify }}
+    </div>
+  </section>
+
+  <!-- Publications -->
+  <section class="home-section" id="publications">
+    <div class="home-section__inner">
+      <h2 class="home-section__title"><a href="/publications/">Publications</a></h2>
+      {% assign pub = site.pages | where: "permalink", "/publications/" | first %}
+      {{ pub.content | markdownify }}
+    </div>
+  </section>
+
+  <!-- Engagement -->
+  <section class="home-section home-section--alt" id="engagement">
+    <div class="home-section__inner">
+      <h2 class="home-section__title"><a href="/engagement/">Engagement</a></h2>
+      {% assign eng = site.pages | where: "permalink", "/engagement/" | first %}
+      {{ eng.content | markdownify }}
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="home-section" id="contact">
+    <div class="home-section__inner">
+      <h2 class="home-section__title">Contact</h2>
+      <p>Faculty of Divinity<br>University of Cambridge</p>
+      <p id="email-display-home"></p>
+      <script>
+        (function() {
+          var c = [104,98,52,54,50,64,99,97,109,46,97,99,46,117,107];
+          var email = c.map(function(n){ return String.fromCharCode(n); }).join('');
+          var a = document.createElement('a');
+          a.href = 'mailto:' + email;
+          a.textContent = email;
+          document.getElementById('email-display-home').appendChild(a);
+        })();
+      </script>
+    </div>
+  </section>
+
+</div>

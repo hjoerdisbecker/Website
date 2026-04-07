@@ -1,0 +1,393 @@
+---
+# Only the main.scss needs front matter
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/*
+  Colour palette — Dark Plum:
+    #1c1a22  very dark purple-grey  (page background)
+    #231f2c  slightly lighter       (alternate section bg)
+    #a89fb8  muted lavender-grey    (body text)
+    #d4cce0  soft lavender-white    (headings, strong text)
+    #ffffff  white                  (emphasis, hover)
+    #2e2a3a  dark purple-grey       (borders, dividers)
+*/
+
+/* ============================================================
+   Typography & Colour
+   ============================================================ */
+
+/* --- Fonts --- */
+
+body {
+  font-family: "Red Hat Text", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.7em;
+  color: #a89fb8;
+  background-color: #1c1a22;
+}
+
+h1, h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  line-height: 1.2em;
+  color: #d4cce0;
+  letter-spacing: 0.05em;
+}
+
+h3, h4, h5, h6 {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.2em;
+  color: #d4cce0;
+}
+
+h1 { font-size: 2.8rem; }
+h2 { font-size: 1.9rem; }
+h3 { font-size: 1.75rem; font-weight: 300; }
+h4 { font-size: 1.35rem; font-weight: 300; }
+h5 { font-size: 1.15rem; font-weight: 300; }
+h6 { font-size: 1rem;    font-weight: 300; }
+
+/* --- Links --- */
+
+a {
+  color: #d4cce0;
+  text-decoration: none;
+
+  &:hover {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+}
+
+/* --- Navigation --- */
+
+.greedy-nav {
+  background: rgba(28, 26, 34, 0.97);
+
+  a {
+    font-family: "Red Hat Text", sans-serif;
+    font-size: 0.95rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.075em;
+    color: rgba(212, 204, 224, 0.87);
+
+    &:hover {
+      color: #ffffff;
+    }
+  }
+}
+
+.masthead {
+  border-bottom: 1px solid #2e2a3a;
+  background: rgba(28, 26, 34, 0.97);
+}
+
+/* --- Page backgrounds --- */
+
+body,
+.page__content,
+.layout--single {
+  background-color: #1c1a22;
+}
+
+.sidebar {
+  background-color: #231f2c;
+}
+
+/* --- Page content text --- */
+
+.page__content {
+  p, li {
+    font-size: 0.95rem;
+    line-height: 1.7em;
+    color: #a89fb8;
+  }
+
+  h2 {
+    border-bottom: 1px solid #2e2a3a;
+    padding-bottom: 0.3em;
+    margin-top: 2rem;
+  }
+}
+
+/* --- Buttons --- */
+
+.btn--inverse {
+  border-color: #d4cce0;
+  color: #d4cce0;
+
+  &:hover {
+    background-color: #d4cce0;
+    color: #1c1c1c;
+  }
+}
+
+/* --- Footer --- */
+
+.page__footer {
+  background-color: #13111a;
+  color: rgba(170, 170, 170, 0.7);
+
+  a {
+    color: #a89fb8;
+
+    &:hover {
+      color: #ffffff;
+    }
+  }
+}
+
+/* ============================================================
+   CV page
+   ============================================================ */
+
+.cv-header {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.cv-portrait {
+  width: 200px;
+  min-width: 200px;
+  border-radius: 2px;
+  display: block;
+}
+
+.cv-bio {
+  p {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .cv-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .cv-portrait {
+    width: 160px;
+    min-width: 160px;
+  }
+}
+
+/* ============================================================
+   Home page — long scroll with sections
+   ============================================================ */
+
+/* Strip all wrapper chrome so home page sections run full-width */
+.layout--default #main,
+.layout--default .initial-content {
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+}
+
+.home-page article,
+.home-page .page__content {
+  padding: 0;
+  margin: 0;
+}
+
+.home-page {
+  width: 100%;
+}
+
+/* Hero section */
+.home-section--hero {
+  background-color: #1c1a22;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 3rem 2rem;
+  box-sizing: border-box;
+
+  h1 {
+    font-family: "Roboto", sans-serif;
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 100;
+    color: #ffffff;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.5rem;
+  }
+
+  .tagline {
+    font-family: "Red Hat Text", sans-serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: rgba(250, 250, 250, 0.65);
+    margin-bottom: 2.5rem;
+  }
+}
+
+/* Hero anchor nav */
+.home-hero-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem 2rem;
+
+  a {
+    font-family: "Red Hat Text", sans-serif;
+    font-size: 0.85rem;
+    font-weight: 300;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #d4cce0;
+    text-decoration: none;
+
+    &:hover {
+      color: #ffffff;
+      text-decoration: none;
+    }
+  }
+}
+
+/* Content sections */
+.home-section {
+  padding: 5rem 0;
+  background-color: #1c1a22;
+
+  &.home-section--alt {
+    background-color: #231f2c;
+  }
+}
+
+.home-section__inner {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.home-section__title {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.9rem;
+  font-weight: 100;
+  color: #d4cce0;
+  border-bottom: 1px solid #2e2a3a;
+  padding-bottom: 0.4em;
+  margin-bottom: 2rem;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      color: #ffffff;
+      text-decoration: none;
+    }
+  }
+}
+
+/* ============================================================
+   Featured book section
+   ============================================================ */
+
+.home-section--book {
+  background-color: #13111a;
+
+  .home-section__inner {
+    max-width: 860px;
+  }
+}
+
+.featured-book {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+}
+
+.featured-book__cover {
+  width: 200px;
+  min-width: 200px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+  display: block;
+}
+
+.featured-book__text {
+  color: #fafafa;
+}
+
+.featured-book__label {
+  font-family: "Red Hat Text", sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #d4cce0;
+  margin-bottom: 0.5rem;
+}
+
+.featured-book__title {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.9rem;
+  font-weight: 100;
+  color: #ffffff;
+  border: none;
+  margin: 0 0 0.2rem 0;
+  padding: 0;
+}
+
+.featured-book__subtitle {
+  font-family: "Red Hat Text", sans-serif;
+  font-style: italic;
+  font-size: 1rem;
+  color: #d4cce0;
+  margin-bottom: 1.2rem;
+}
+
+.featured-book__blurb {
+  font-size: 0.95rem;
+  line-height: 1.7em;
+  color: rgba(250, 250, 250, 0.75);
+  margin-bottom: 1.5rem;
+}
+
+.featured-book__link {
+  font-family: "Red Hat Text", sans-serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  color: #d4cce0;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(220, 220, 220, 0.4);
+  padding-bottom: 2px;
+
+  &:hover {
+    color: #ffffff;
+    border-bottom-color: #ffffff;
+    text-decoration: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .featured-book {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .featured-book__cover {
+    width: 160px;
+    min-width: 160px;
+  }
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Offset anchor targets so they clear the sticky masthead (~70px) */
+.home-section {
+  scroll-margin-top: 70px;
+}

@@ -1,0 +1,53 @@
+title: "Hjördis Becker-Lindenthal"
+name: "Hjördis Becker-Lindenthal"
+description: ""
+url: "https://beckerlindenthal.com"
+baseurl: ""
+
+theme: minimal-mistakes-jekyll
+
+minimal_mistakes_skin: "dark"   # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+# Build
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+timezone: Europe/Berlin
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+atom_feed:
+  hide: true
+
+# Author
+author:
+  name: "Hjördis Becker-Lindenthal"
+  email: "hb462@cam.ac.uk"
+  bio: ""
+  location: ""
+  links:
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: ""
+
+# Footer
+footer:
+  links:
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: ""
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false

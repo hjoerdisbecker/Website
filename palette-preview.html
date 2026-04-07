@@ -1,0 +1,171 @@
+---
+layout: none
+permalink: /palette-preview/
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Palette Preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&family=Red+Hat+Text:wght@300;400&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: "Red Hat Text", sans-serif; }
+
+    .palette {
+      padding: 3rem 2rem;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .palette__label {
+      font-family: "Red Hat Text", sans-serif;
+      font-size: 0.75rem;
+      font-weight: 300;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+      opacity: 0.5;
+    }
+
+    .palette h1 {
+      font-family: "Roboto", sans-serif;
+      font-weight: 100;
+      font-size: 3rem;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.4rem;
+    }
+
+    .palette h2 {
+      font-family: "Roboto", sans-serif;
+      font-weight: 100;
+      font-size: 1.6rem;
+      letter-spacing: 0.05em;
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.5rem;
+    }
+
+    .palette nav {
+      display: flex;
+      gap: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .palette nav a {
+      font-family: "Red Hat Text", sans-serif;
+      font-weight: 300;
+      font-size: 0.85rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      text-decoration: none;
+    }
+
+    .palette p {
+      font-family: "Red Hat Text", sans-serif;
+      font-weight: 400;
+      font-size: 0.95rem;
+      line-height: 1.7em;
+      max-width: 55ch;
+    }
+
+    /* A — Warm Charcoal */
+    .palette--a {
+      background-color: #1e1a17;
+      color: #c9b99a;
+    }
+    .palette--a h1, .palette--a h2 { color: #ede0ca; }
+    .palette--a h2 { border-bottom: 1px solid #3a3228; }
+    .palette--a nav a { color: #c9b99a; }
+    .palette--a nav a:hover { color: #ede0ca; }
+
+    /* B — Midnight Navy */
+    .palette--b {
+      background-color: #0f1629;
+      color: #9daabe;
+    }
+    .palette--b h1, .palette--b h2 { color: #d4dce8; }
+    .palette--b h2 { border-bottom: 1px solid #1f2f4a; }
+    .palette--b nav a { color: #9daabe; }
+    .palette--b nav a:hover { color: #d4dce8; }
+
+    /* C — Deep Forest */
+    .palette--c {
+      background-color: #141d1a;
+      color: #9ab5a8;
+    }
+    .palette--c h1, .palette--c h2 { color: #c8ddd5; }
+    .palette--c h2 { border-bottom: 1px solid #243530; }
+    .palette--c nav a { color: #9ab5a8; }
+    .palette--c nav a:hover { color: #c8ddd5; }
+
+    /* D — Dark Plum */
+    .palette--d {
+      background-color: #1c1a22;
+      color: #a89fb8;
+    }
+    .palette--d h1, .palette--d h2 { color: #d4cce0; }
+    .palette--d h2 { border-bottom: 1px solid #2e2a3a; }
+    .palette--d nav a { color: #a89fb8; }
+    .palette--d nav a:hover { color: #d4cce0; }
+  </style>
+</head>
+<body>
+
+  <div class="palette palette--a">
+    <p class="palette__label">A — Warm Charcoal</p>
+    <h1>Hjördis Becker-Lindenthal</h1>
+    <nav>
+      <a href="#">CV</a>
+      <a href="#">Publications</a>
+      <a href="#">Engagement</a>
+      <a href="#">Contact</a>
+    </nav>
+    <h2>Publications</h2>
+    <p>This volume examines the relationship between Kierkegaard's thought and the Christian mystical tradition, tracing resonances, influences, and receptions across theology, philosophy, and spirituality.</p>
+  </div>
+
+  <div class="palette palette--b">
+    <p class="palette__label">B — Midnight Navy</p>
+    <h1>Hjördis Becker-Lindenthal</h1>
+    <nav>
+      <a href="#">CV</a>
+      <a href="#">Publications</a>
+      <a href="#">Engagement</a>
+      <a href="#">Contact</a>
+    </nav>
+    <h2>Publications</h2>
+    <p>This volume examines the relationship between Kierkegaard's thought and the Christian mystical tradition, tracing resonances, influences, and receptions across theology, philosophy, and spirituality.</p>
+  </div>
+
+  <div class="palette palette--c">
+    <p class="palette__label">C — Deep Forest</p>
+    <h1>Hjördis Becker-Lindenthal</h1>
+    <nav>
+      <a href="#">CV</a>
+      <a href="#">Publications</a>
+      <a href="#">Engagement</a>
+      <a href="#">Contact</a>
+    </nav>
+    <h2>Publications</h2>
+    <p>This volume examines the relationship between Kierkegaard's thought and the Christian mystical tradition, tracing resonances, influences, and receptions across theology, philosophy, and spirituality.</p>
+  </div>
+
+  <div class="palette palette--d">
+    <p class="palette__label">D — Dark Plum</p>
+    <h1>Hjördis Becker-Lindenthal</h1>
+    <nav>
+      <a href="#">CV</a>
+      <a href="#">Publications</a>
+      <a href="#">Engagement</a>
+      <a href="#">Contact</a>
+    </nav>
+    <h2>Publications</h2>
+    <p>This volume examines the relationship between Kierkegaard's thought and the Christian mystical tradition, tracing resonances, influences, and receptions across theology, philosophy, and spirituality.</p>
+  </div>
+
+</body>
+</html>
