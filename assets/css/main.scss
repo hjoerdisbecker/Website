@@ -180,6 +180,118 @@ body,
 }
 
 /* ============================================================
+   Publications — ToC and open-access links
+   ============================================================ */
+
+.pub-entry {
+  margin-bottom: 0.5rem;
+
+  > p { margin: 0 0 0.25rem 0; }
+}
+
+.toc-details {
+  margin: 0.5rem 0 1.5rem 1.5rem;
+
+  summary {
+    font-family: "Red Hat Text", sans-serif;
+    font-size: 0.78rem;
+    font-weight: 300;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #a89fb8;
+    cursor: pointer;
+    list-style: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+
+    &::-webkit-details-marker { display: none; }
+
+    &::before {
+      content: '▸';
+      font-size: 0.7rem;
+      transition: transform 0.2s;
+    }
+
+    &:hover { color: #d4cce0; }
+  }
+
+  &[open] summary::before {
+    transform: rotate(90deg);
+  }
+}
+
+.toc-content {
+  margin-top: 0.75rem;
+  padding: 1rem 1.25rem;
+  border-left: 1px solid #2e2a3a;
+  font-size: 0.88rem;
+  line-height: 1.6em;
+  color: #a89fb8;
+
+  p { margin: 0.3rem 0; }
+  em { color: #7a7190; }
+}
+
+.pub-link {
+  display: inline-block;
+  font-family: "Red Hat Text", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 300;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #7a7190;
+  border: 1px solid #2e2a3a;
+  border-radius: 2px;
+  padding: 0.1rem 0.45rem;
+  margin-left: 0.4rem;
+  vertical-align: middle;
+  text-decoration: none;
+  white-space: nowrap;
+
+  &:hover {
+    color: #d4cce0;
+    border-color: #a89fb8;
+    text-decoration: none;
+  }
+}
+
+/* ============================================================
+   Academic profile links
+   ============================================================ */
+
+.academic-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.academic-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: "Red Hat Text", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 300;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  padding: 0.35rem 0.75rem;
+  border-radius: 2px;
+  border: 1px solid #2e2a3a;
+  color: #a89fb8;
+  transition: color 0.15s, border-color 0.15s;
+
+  svg { flex-shrink: 0; }
+
+  &:hover {
+    text-decoration: none;
+    color: #d4cce0;
+    border-color: #a89fb8;
+  }
+}
+
+/* ============================================================
    Home page — long scroll with sections
    ============================================================ */
 
