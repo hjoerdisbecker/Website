@@ -29,7 +29,5 @@ permalink: /engagement/
 
 **2021** *Kierkegaard in France* (co-organised with Andrew Sackin-Poll). Seminar series in cooperation with CRASSH, May–June 2021.
 
-**2021** *Kierkegaard in France* (co-organised with Andrew Sackin-Poll). Seminar series in cooperation with CRASSH, May–June 2021.
-
-**2021** *Magic and Ecology* (co-organised with Simone Kotva and Sophie Lunn-Rockliffe). Seminar series , January–April 2021.
+**2021** *Magic and Ecology* (co-organised with Simone Kotva and Sophie Lunn-Rockliffe). Seminar series in cooperation with CRASSH, January–April 2021.
 
