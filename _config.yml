@@ -4,7 +4,7 @@ description: ""
 url: "https://beckerlindenthal.com"
 baseurl: ""
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 minimal_mistakes_skin: "dark"   # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
@@ -22,6 +22,7 @@ kramdown:
   parse_span_html: true
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
