@@ -1,8 +1,8 @@
 title: "Hjördis Becker-Lindenthal"
 name: "Hjördis Becker-Lindenthal"
 description: ""
-url: "https://beckerlindenthal.com"
-baseurl: ""
+url: "https://hjoerdisbecker.github.io"
+baseurl: "/Website"
 
 remote_theme: mmistakes/minimal-mistakes
 
