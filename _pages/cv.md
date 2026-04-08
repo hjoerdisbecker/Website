@@ -9,7 +9,7 @@ permalink: /cv/
     <p>
       Dr. Hjördis Becker-Lindenthal is an Affiliated Researcher in the Philosophy of Religion
       at the Faculty of Divinity, University of Cambridge. Her work sits at the intersection
-      of philosophy, theology, literature, and intellectual history, with a particular focus on
+      of philosophy and theology, with a particular focus on
       Søren Kierkegaard, mysticism, and Earth ethics.
     <p>
       She held a Leverhulme Early Career Fellowship at Cambridge (2018–2022), during which
@@ -22,7 +22,7 @@ permalink: /cv/
       She has held visiting fellowships at Harvard University and the Kierkegaard Research
       Centre, University of Copenhagen, and has presented her work at international
       conferences across Europe and North America. Her research engages questions of 
-      selfhood, ecology, grace, and (trans)formation, and has extended into public-facing
+      selfhood, ecology, and (trans)formation, and has extended into public-facing
       work including BBC Radio, the Cambridge Festival of Ideas, and curatorial projects.
     </p>
   </div>
