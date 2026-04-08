@@ -4,7 +4,7 @@ permalink: /cv/
 ---
 
 <div class="cv-header" markdown="0">
-  <img src="/assets/portrait.png" alt="Dr Hjördis Becker-Lindenthal" class="cv-portrait">
+  <img src="{{ '/assets/portrait.png' | relative_url }}" alt="Dr Hjördis Becker-Lindenthal" class="cv-portrait">
   <div class="cv-bio">
     <p>
       Dr. Hjördis Becker-Lindenthal is an Affiliated Researcher in the Philosophy of Religion
@@ -30,7 +30,7 @@ permalink: /cv/
 
 <div class="academic-links" markdown="0">
   <a href="https://orcid.org/0000-0002-9163-3166" class="academic-link academic-link--orcid" target="_blank" rel="noopener" aria-label="ORCID">
-    <img src="/assets/Orcid%20logo.svg" width="20" height="20" alt="ORCID">
+    <img src="{{ '/assets/Orcid logo.svg' | relative_url }}" width="20" height="20" alt="ORCID">
     <span>ORCID</span>
   </a>
   <a href="https://scholar.google.co.uk/citations?user=-q1cxTIAAAAJ&hl=en&oi=ao" class="academic-link academic-link--scholar" target="_blank" rel="noopener" aria-label="Google Scholar">
