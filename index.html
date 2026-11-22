@@ -9,6 +9,16 @@ permalink: /
   <section class="home-section home-section--book" id="book">
     <div class="home-section__inner">
       <div class="featured-book">
+        <img src="{{ '/assets/book-lifeview.jpg' | relative_url }}" alt="Kierkegaard on the Life-View book cover" class="featured-book__cover">
+        <div class="featured-book__text">
+          <p class="featured-book__label">New Book</p>
+          <h2 class="featured-book__title">Kierkegaard on the Life-View</h2>
+          <p class="featured-book__subtitle">Elements in the Philosophy of Søren Kierkegaard</p>
+          <p class="featured-book__blurb">This Element traces the emergence, development, and eventual sublation of the concept of life-view in Kierkegaard's authorship. It begins with Kierkegaard's review of Hans Christian Andersen, <em>From the Papers of One Still Living</em> (1838), examining the influence of Heibergian-Hegelian aesthetics, the bildungsroman tradition, and Poul Martin Møller's critique of 'nihilistic' European literature on Kierkegaard's early understanding of the concept. The analysis then considers how, inspired by Schleiermacher, Kierkegaard employs 'life-view' to develop his pseudonymous authorship, leading to the stages of existence in <em>Either/Or</em> (1843) and <em>Stages on Life's Way</em> (1845). Life-view also becomes a crucial term in Kierkegaard's criticism of the daily press and defines good authorship, as Kierkegaard's <em>Literary Review</em> of Gyllembourg's <em>Two Ages</em> and <em>Book on Adler</em> show (1846). In his late authorship, however, Kierkegaard's critique of institutionalised Christianity, his reversal of bildung, and the revision of human agency culminate in a sublation of the concept of life-view. By Hjördis Becker-Lindenthal. Cambridge University Press, 2026.</p>
+          <a href="https://www.cambridge.org/core/elements/kierkegaard-on-the-lifeview/4AFC05601B0974BA46BF69464EE3CB5B" class="featured-book__link" target="_blank" rel="noopener">Publisher's page &rarr;</a>
+        </div>
+      </div>
+      <div class="featured-book">
         <img src="{{ '/assets/book.jpg' | relative_url }}" alt="Kierkegaard and Mysticism book cover" class="featured-book__cover">
         <div class="featured-book__text">
           <p class="featured-book__label">New Book</p>
@@ -76,17 +86,23 @@ permalink: /
   <section class="home-section" id="contact">
     <div class="home-section__inner">
       <h2 class="home-section__title">Contact</h2>
+      <p>Faculty of Theology<br>University of Copenhagen</p>
       <p>Faculty of Divinity<br>University of Cambridge</p>
       {% include academic-links.html %}
       <p id="email-display-home"></p>
       <script>
         (function() {
-          var c = [104,98,52,54,50,64,99,97,109,46,97,99,46,117,107];
-          var email = c.map(function(n){ return String.fromCharCode(n); }).join('');
-          var a = document.createElement('a');
-          a.href = 'mailto:' + email;
-          a.textContent = email;
-          document.getElementById('email-display-home').appendChild(a);
+          // hbl@teol.ku.dk and hb462@cam.ac.uk encoded as char codes
+          var codes = [[104,98,108,64,116,101,111,108,46,107,117,46,100,107], [104,98,52,54,50,64,99,97,109,46,97,99,46,117,107]];
+          var el = document.getElementById('email-display-home');
+          codes.forEach(function(c, i) {
+            var email = c.map(function(n){ return String.fromCharCode(n); }).join('');
+            var a = document.createElement('a');
+            a.href = 'mailto:' + email;
+            a.textContent = email;
+            if (i > 0) el.appendChild(document.createElement('br'));
+            el.appendChild(a);
+          });
         })();
       </script>
     </div>

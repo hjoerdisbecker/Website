@@ -7,7 +7,31 @@ permalink: /publications/
 
 <ul class="pub-list" markdown="0">
   <li class="pub-entry">
-    <p><em>Kierkegaard and the Life-View.</em> Cambridge: Cambridge University Press (forthcoming 2026).</p>
+    <p><em>Kierkegaard on the Life-View.</em> Cambridge: Cambridge University Press, 2026 (Elements in the Philosophy of Søren Kierkegaard). <a href="https://www.cambridge.org/core/elements/kierkegaard-on-the-lifeview/4AFC05601B0974BA46BF69464EE3CB5B" class="pub-link" target="_blank" rel="noopener">read more</a></p>
+    <details class="toc-details">
+      <summary>Contents</summary>
+      <div class="toc-content">
+        <p>Introduction</p>
+        <p><strong>1. The Emergence of Life-View</strong></p>
+        <p>1.1 Hegel's Aesthetics and 'World-View'</p>
+        <p>1.2 Thomasine Gyllembourg as a Prototypical Author</p>
+        <p>1.3 Poetic Realism and the Bildungsroman Tradition</p>
+        <p>1.4 Life-View Contra Nihilism in the 'So-Called Political Period': The Influence of Poul Martin Møller</p>
+        <p>1.5 What Kind of Life-View? Religiosity and Biography</p>
+        <p><strong>2. The Development of Life-View</strong></p>
+        <p>2.1 Schleiermacher's <em>Letters on Schlegel's Lucinde</em></p>
+        <p>2.2 <em>Either/Or</em>: The Ethical Life-View vs. the Aesthetic Life-View</p>
+        <p>2.3 <em>Stages on Life's Way</em>: The Demonic Approximation of the Religious Life-View</p>
+        <p>2.4 Dangers to a Life-View: The Public, the Demands of the Times and a Popularised Hegelianism</p>
+        <p>2.5 The 'Essential Author' and the 'Premise Author': Gyllembourg vs. Adler</p>
+        <p><strong>3. The Sublation of Life-View</strong></p>
+        <p>3.1 Kierkegaard's Critique of Institutionalised Christianity and His Role as an Author</p>
+        <p>3.2 Kierkegaard's Revision of Bildung and His Theory of Indirect Communication</p>
+        <p>3.3 Learning to Die: Kierkegaard's Revision of Human Agency</p>
+        <p>3.4 Kierkegaard's Revision of Authorial Power</p>
+        <p>Conclusion</p>
+      </div>
+    </details>
   </li>
   <li class="pub-entry">
     <p><em>Die Wiederholung der Philosophie. Kierkegaards Kulturkritik und ihre Folgen.</em> Berlin and Boston: De Gruyter, 2015 (Kierkegaard Studies Monograph Series, Vol. 32), 298pp. <a href="https://www.degruyterbrill.com/document/doi/10.1515/9783110418316/html?lang=en#overview" class="pub-link" target="_blank" rel="noopener">read more</a></p>

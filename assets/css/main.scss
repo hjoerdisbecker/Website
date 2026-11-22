@@ -420,6 +420,10 @@ body,
   align-items: flex-start;
 }
 
+.featured-book + .featured-book {
+  margin-top: 4rem;
+}
+
 .featured-book__cover {
   width: 200px;
   min-width: 200px;
